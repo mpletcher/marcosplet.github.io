@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rails | Rails App]]></title>
+  <link href="http://marcosplet.github.io/blog/categories/rails/atom.xml" rel="self"/>
+  <link href="http://marcosplet.github.io/"/>
+  <updated>2015-08-11T13:54:34-05:00</updated>
+  <id>http://marcosplet.github.io/</id>
+  <author>
+    <name><![CDATA[Marcos Pletcher]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Using Terminal to Create Posts]]></title>
+    <link href="http://marcosplet.github.io/blog/2015/08/10/using-terminal-to-create-posts/"/>
+    <updated>2015-08-10T21:47:17-05:00</updated>
+    <id>http://marcosplet.github.io/blog/2015/08/10/using-terminal-to-create-posts</id>
+    <content type="html"><![CDATA[<h2>Node.js: First Steps</h2>
+
+<p>Node.js is an open source, cross-platform runtime environment for server-side and networking applications</p>
+
+<p><br/></p>
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" id="ytplayer" type="text/html" width="640" height="390"
+  src="https://www.youtube.com/embed/jiSFfpw3Btc?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_"
+  frameborder="0"/></div>
+
+]]></content>
+  </entry>
+  
+</feed>
